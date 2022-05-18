@@ -1,0 +1,23 @@
+h1{
+    color: azure;
+    text-align: center;
+}
+h2{
+    color: rgb(186, 229, 151);
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: antiquewhite;
+}
+#gatito{
+    height: auto;
+    width: 400px;
+    border-radius: 80%;
+}
+#crying{
+    height: auto;
+    width: 400px;
+    border-radius: 30%;
+}
+
